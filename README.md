@@ -51,6 +51,11 @@ To analyze ride-hailing data and uncover key insights related to customer demand
 
 ---
 
+# 🚖 Uber Ride Analytics Dashboard
+
+![Dashboard](uber-dashboard.jpeg)
+
+---
 ## 👤 Author
 
 Agrim Kumar Malhotra  
