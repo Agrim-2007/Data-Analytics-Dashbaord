@@ -1,11 +1,11 @@
-# 🚖 Uber Ride Analytics Dashboard
+# Uber Ride Analytics Dashboard
 
 An interactive data analytics dashboard built using Tableau to analyze Uber ride data.  
 The dashboard provides insights into bookings, revenue trends, ride patterns, and location-based performance to support data-driven decision-making.
 
 ---
 
-## 📊 Features
+## Features
 
 - Total Bookings, Total Revenue, and Average Ride Metrics  
 - Ride trends by hour and day  
@@ -15,27 +15,27 @@ The dashboard provides insights into bookings, revenue trends, ride patterns, an
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Tableau (Data Visualization)  
 - CSV ([Data Source](https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard))  
 
 ---
 
-## 🔗 Live Dashboard
+## Live Dashboard
 
 View the interactive dashboard here:  
 👉 Add your Tableau Public link here  
 
 ---
 
-## 🎯 Objective
+## Objective
 
 To analyze ride-hailing data and uncover key insights related to customer demand, revenue generation, and operational performance.
 
 ---
 
-## 🚀 Key Insights
+## Key Insights
 
 - Peak booking hours observed during high-demand time slots  
 - Certain locations generate higher revenue consistently  
@@ -43,7 +43,7 @@ To analyze ride-hailing data and uncover key insights related to customer demand
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 - Add predictive analytics (demand forecasting)  
 - Integrate real-time data  
@@ -51,15 +51,15 @@ To analyze ride-hailing data and uncover key insights related to customer demand
 
 ---
 
-# 🚖 Uber Ride Analytics Dashboard
+# Uber Ride Analytics Dashboard
 
 ![Dashboard](uber-dashboard.jpeg)
 
 ---
-## 👤 Author
+## Author
 
 Agrim Kumar Malhotra  
 
 ---
 
-⭐ If you found this useful, feel free to star the repo!
+If you found this useful, feel free to star the repo...
