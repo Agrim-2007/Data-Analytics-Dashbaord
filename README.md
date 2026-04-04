@@ -20,14 +20,6 @@ The dashboard provides insights into bookings, revenue trends, ride patterns, an
 - Tableau (Data Visualization)  
 - CSV ([Data Source](https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard))  
 
----
-
-## Live Dashboard
-
-View the interactive dashboard here:  
-👉 Add your Tableau Public link here  
-
----
 
 ## Objective
 
