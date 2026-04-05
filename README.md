@@ -1,57 +1,63 @@
-# Uber Ride Analytics Dashboard
+# Data Analytics Projects Portfolio
 
-An interactive data analytics dashboard built using Tableau to analyze Uber ride data.  
-The dashboard provides insights into bookings, revenue trends, ride patterns, and location-based performance to support data-driven decision-making.
+This repository contains Tableau-based data analytics dashboards focused on extracting insights from real-world datasets.
 
 ---
 
-## Features
+## Projects
 
-- Total Bookings, Total Revenue, and Average Ride Metrics  
-- Ride trends by hour and day  
-- Revenue and bookings by location  
-- Monthly performance analysis  
-- Interactive filters for deeper insights  
+### 1. Customer Personality Analytics
+- An interactive Tableau dashboard analyzing customer demographics, behavior, and purchasing patterns
+- Key focus areas:
+  - Customer segmentation
+  - Campaign performance
+  - Income and spending analysis
+
+Folder: `Customer-Personality-Analytics`
+
+---
+
+### 2. Uber Data Analysis
+- A Tableau dashboard providing insights into Uber ride data
+- Key focus areas:
+  - Ride trends and demand patterns
+  - Time-based analysis
+  - Operational insights
+
+Folder: `Uber-Analysis`
 
 ---
 
 ## Tools & Technologies
-
-- Tableau (Data Visualization)  
-- CSV ([Data Source](https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard))  
-
-
-## Objective
-
-To analyze ride-hailing data and uncover key insights related to customer demand, revenue generation, and operational performance.
+- Tableau
+- Data Visualization
+- Data Analysis
 
 ---
 
-## Key Insights
+## How to Use
 
-- Peak booking hours observed during high-demand time slots  
-- Certain locations generate higher revenue consistently  
-- Weekly and monthly trends highlight usage patterns  
-
----
-
-## Future Improvements
-
-- Add predictive analytics (demand forecasting)  
-- Integrate real-time data  
-- Enhance UI/UX for better usability  
+1. Open the respective project folder  
+2. Download the Tableau file:
+   - `.twbx` (ready to use)
+   - `.twb` (required dataset in README)
+3. Open using Tableau Desktop or Tableau Public  
 
 ---
 
-# Uber Ride Analytics Dashboard
-
-![Dashboard](uber-dashboard.jpeg)
-
----
 ## Author
 
-Agrim Kumar Malhotra  
+Agrim Kumar Malhotra   
 
 ---
 
-If you found this useful, feel free to star the repo...
+## Purpose
+
+This repository showcases my ability to:
+- Build interactive dashboards  
+- Derive insights from data  
+- Present data in a clear and meaningful way  
+
+---
+
+If you find this repository useful, consider giving it a star
