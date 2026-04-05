@@ -50,7 +50,7 @@ This project presents an interactive Tableau dashboard built to analyze customer
 
 ## Dashboard Preview
 
-![Dashboard Preview](customer_analysis.jpeg)
+![Dashboard Preview](Customer_analysis.jpeg)
 
 ---
 
